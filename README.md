@@ -10,4 +10,8 @@ A Power BI project analyzing Walmart sales data from Kaggle, featuring visualiza
 ## Screenshots
 ![Dashboard](screenshots/dashboard.png)
 
+## Dataset
+- Original data: [Walmart Dataset on Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales).
+- Note: Not included in this repo due to large size (>10MB). Users must download it separately to refresh the dashboard.
+
 Note: Dataset not included due to size; link above.
